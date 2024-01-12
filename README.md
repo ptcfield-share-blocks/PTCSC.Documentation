@@ -1,5 +1,5 @@
 # PTCSC.Documentation
-This standard building block is an example of how to store and display documentation (files/pictures/documents/links) related to a Thing or ThingTemplate in the Thingworx 
+This standard building block is an example of how to store and display documentation (files/pictures/documents/links) related to a Thing or ThingTemplate in Thingworx 
 
 # Disclaimer
 By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.
